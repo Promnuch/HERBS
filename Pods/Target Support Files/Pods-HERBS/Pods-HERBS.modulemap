@@ -1,0 +1,6 @@
+framework module Pods_HERBS {
+  umbrella header "Pods-HERBS-umbrella.h"
+
+  export *
+  module * { export * }
+}

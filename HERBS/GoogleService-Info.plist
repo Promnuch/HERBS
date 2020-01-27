@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>462670369186-k2d1h8j9bebo5gqk52ebpl00ntt26snn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.462670369186-k2d1h8j9bebo5gqk52ebpl00ntt26snn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDwt5xDhMsxvR3l2pqSLKuVxmANal7l418</string>
+	<key>GCM_SENDER_ID</key>
+	<string>462670369186</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.gel.HERBS</string>
+	<key>PROJECT_ID</key>
+	<string>herbsproject-2833f</string>
+	<key>STORAGE_BUCKET</key>
+	<string>herbsproject-2833f.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:462670369186:ios:fb4827eff925ef5d</string>
+	<key>DATABASE_URL</key>
+	<string>https://herbsproject-2833f.firebaseio.com</string>
+</dict>
+</plist>
